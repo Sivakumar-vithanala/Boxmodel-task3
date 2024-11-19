@@ -1,0 +1,64 @@
+.container{
+    height: 700px;
+    width: 550px;
+    border: 4px;
+    border-style: solid;
+}
+
+.section1{
+    height: 350px;
+    width: 120px;
+    border: 2px;
+    border-style: solid;
+    margin: 10px;
+    display: inline-block;
+}
+.section2{
+    height: 350px;
+    width: 120px;
+    border: 2px;
+    border-style: solid;
+    margin: 10px;
+    display: inline-block;
+}
+.section3{
+    height: 350px;
+    width: 230px;
+    border: 2px;
+    border-style: solid;
+    margin: 10px;
+    display: inline-block;
+}
+
+.footer{
+    height: 250px;
+    width: 525px;
+    border: 2px;
+    border-style: solid;
+    margin: 10px;
+}
+
+.section4{
+    height: 220px;
+    width: 130px;
+    border: 2px;
+    border-style: solid;
+    margin: 10px;
+    display: inline-block;
+}
+.section5{
+    height: 220px;
+    width: 130px;
+    border: 2px;
+    border-style: solid;
+    margin: 10px;
+    display: inline-block;
+}
+.section6{
+    height: 220px;
+    width: 180px;
+    border: 2px;
+    border-style: solid;
+    margin: 10px;
+    display: inline-block;
+}
